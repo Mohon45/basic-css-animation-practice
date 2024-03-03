@@ -1,8 +1,9 @@
-# React + Vite
+# Basic Css Animation Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Usefull Css Tools
 
-Currently, two official plugins are available:
+- Fancy Border Radius (https://9elements.github.io/fancy-border-radius/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Css Glow Generator (https://cssbud.com/css-generator/css-glow-generator/)
+
+- Css Glass Morphism (https://ui.glass/generator/)
